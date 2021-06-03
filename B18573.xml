@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of divers Roman-Catholicks: as it was lately stated to a person eminent in the law; and thought not unfit to be made publick.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18573</idno><idno type="EEBO-CITATION">99884346</idno>
+  <idno type="VID">201344</idno>
+  <idno type="EEBO-PROQUEST">2264208386</idno>
+  
+            <idno type="STC">Wing C905</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[68]</idno>
+            <idno type="STC">ESTC R214441</idno>
+            <idno type="PROQUEST">ocm99884346</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99884346e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18573)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201344)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of divers Roman-Catholicks: as it was lately stated to a person eminent in the law; and thought not unfit to be made publick.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anne Seile, over against Saint Dunstans Church in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Catholics --  England --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:201344:1"/>
+            <head>THE CASE OF DIVERS Roman-Catholicks: <hi>As it was lately stated to a Person Eminent in the Law; and thought not unfit to be made Publick.</hi>
+            </head>
+            <p>VEry many of such His MAJESTIES Subjects (both Priests and Laymen) are fully perswaded and satisfied in Conscience</p>
+            <p>That, under God, belongs (only) to his Sacred MAJESTIE, the Supreme coactive Jurisdiction, Soveraigntie and Rule over the Persons of all his Subjects within any his Dominions, of what estate or condition soever they be, (<hi>Ecclesiasticks</hi> or <hi>Laicks</hi>) to take Cognizance in his external Judicatories of Offenders for punishment of them, with Civil and corporal punishments, according to the nature and qualitie of their respective crimes and offences so deserving, whether committed in any <hi>Spiritual</hi> or <hi>Ecclesiastical</hi> thing or cause, or temporal and civil. Which said Supreme coactive Jurisdiction is, and was of Ancient right (in vertue of the Civil Sword) due to the Imperial Crown of this Realm.</p>
+            <p>That neither the <hi>Pope,</hi> nor any other foraign Person, State or Potentate whatsoever, hath, or ought (of right) to have, over any His MAJESTIES Subjects within his said Dominions, any Superioritie repugnant to the same, to exercise any external Power of Coercion, by civil and corporal punishments, as aforesaid, for any matter or cause, spiritual or temporal whatsoever, other then by or under His MAJESTIES Permission or Autho<g ref="char:EOLhyphen"/>ritie.</p>
+            <p>That the Crown of <hi>England</hi> is immediately subject to God in all things touching the Regality of the same, and to none other, and consequently, that neither directly nor indirectly, the <hi>Pope</hi> hath power to depose the <hi>King,</hi> for any matter, or cause whatsoever; Or to absolve any his Subjects from their natural Allegiance to their Soveraign, though differing in Religion; Or from the Obligation of an Oath by them taken, or to bee taken, for Recognition and Assu<g ref="char:EOLhyphen"/>rance thereof accordingly, which they will faithfully and constantly maintain, notwith<g ref="char:EOLhyphen"/>standing any Excommunication, Bull, or other Ecclesiastical Censure to the contrary.</p>
+            <p>But, by such His MAJESTIES Soveraigntie and Rule, as above-mentioned, it is not meant, that He hath power to preach the Word of God, minister the Sacraments, Ordain and Conse<g ref="char:EOLhyphen"/>crate persons to Holy Orders, Excommunicate notorious stubborn Offenders, Absolve Penitents, Or to exercise any power of the Keyes, Or any Act of Jurisdiction purely Spiritual or Internal, over the Soul and Conscience. All which (being meerly spiritual) the Exercise and Cognizance thereof, as such, belong properly to those, whom the Holy Ghost hath placed to rule the Church of God, to punish Offenders in the same, with spiritual Censures, and Ecclesiastical Sentences.</p>
+            <p>
+               <hi>Quaere,</hi>
+            </p>
+            <p>If, upon due Consideration of the Preambles, Grounds, and Intent of several <hi>Statutes,</hi> Enacted against <hi>Popish Recusants,</hi> it may not clearly be collected, that persons of the abovesaid persuasion, were not meant to be comprehended under <hi>that notion.</hi> And consequently, that the severe penalties in the said Acts mentioned, were not intended to be put in execution against them: If the said persons make publick Profession of such their belief, and confirm the same by Oath, which they are ready to do, in full, plain, and express words, without any Equivocation, or mental Reservation whatsoever; Hoping that for some particular Tenets (no way derogating from the Re<g ref="char:EOLhyphen"/>verence due to the Divine Majesty, or sincere faithful dealing with their neighbours) they shall not be excluded from the general Indulgement to tender Consciences; since their dissent is not in any the least point that concerns the Civil government.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Anne Seile,</hi> over against Saint <hi>Dunstans</hi> Church in Fleetstreet. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
